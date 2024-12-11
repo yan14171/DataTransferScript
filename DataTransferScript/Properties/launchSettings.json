@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "DataTransferScript": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Downloads\\sample-cab-data.csv\"",
+      "environmentVariables": {
+        "CabDataConnectionString": "Server=localhost;Database=Cab_Data;Trusted_Connection=True;TrustServerCertificate=True"
+      }
+    }
+  }
+}
